@@ -1,6 +1,6 @@
 name: easy_loading_adaptive
 description: Easy loading widget adaptive platform Android use Material and iOS use Cupertino
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/fighttech-vn/easy_loading_adaptive
 
 environment:

@@ -1,19 +1,18 @@
 name: easy_loading_adaptive
 description: Easy loading widget adaptive platform Android use Material and iOS use Cupertino
-version: 1.0.1
+version: 1.0.3
 homepage: https://fighttech.vn/
 repository: https://github.com/fighttech-vn/easy_loading_adaptive
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
-  flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  universal_platform: ^1.0.0+1
-  jumping_dot: ^0.0.6
+  universal_platform: ^1.1.0
+  jumping_dot: ^0.0.7
 
 dev_dependencies:
   flutter_test:
